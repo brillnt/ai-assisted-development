@@ -6,6 +6,10 @@ A collection of battle-tested initialization prompts for working with AI coding 
 
 AI assistants have a fundamental tendency toward over-eagerness - rushing to implement solutions, adding unrequested features, and claiming completion without verification. This repository provides initialization prompts that channel this eagerness into productive, verified progress through systematic human-AI collaboration.
 
+## Philosophy Deep Dive
+
+Read [`universal-principles.md`](universal-principles.md) for a complete understanding of the methodology these prompts implement.
+
 **Core Principle: "Measure Twice, Cut Once"**
 
 ## Repository Structure
@@ -104,10 +108,6 @@ These prompts are battle-tested through real development work. Contributions sho
 - Include concrete examples from actual usage
 - Maintain the focus on preventing AI eagerness
 - Provide clear documentation
-
-## Philosophy Deep Dive
-
-Read `universal-principles.md` for a complete understanding of the methodology these prompts implement.
 
 ## License
 
