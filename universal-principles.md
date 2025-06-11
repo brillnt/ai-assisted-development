@@ -135,3 +135,7 @@ These principles apply universally but manifest differently based on assistant c
 - **Specialized Assistants**: Adapt verification methods to available tools while maintaining principles
 
 The strength of these principles lies not in rigid application but in their consistent philosophy: AI and human working together, each contributing their unique strengths to create verified, high-quality outcomes.
+
+---
+
+*Created by **Dennis Porter** - [dennismars.com](https://www.dennismars.com/)*

@@ -116,3 +116,5 @@ MIT - Use these prompts freely in your own work.
 ## Acknowledgments
 
 These prompts were developed through extensive real-world AI-assisted development, learning from both successes and failures in human-AI collaboration.
+
+Created by **Dennis Porter** - [dennismars.com](https://www.dennismars.com/)
