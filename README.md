@@ -34,6 +34,8 @@ ai-initialization-prompts/
     └── documentation-writing.md
 ```
 
+(some files are missing b/c this project is a wip ☺️)
+
 ## How to Use
 
 ### For Browser-Based AI Assistants (Claude, ChatGPT, etc.)
