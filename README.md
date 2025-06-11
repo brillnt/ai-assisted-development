@@ -111,7 +111,9 @@ These prompts are battle-tested through real development work. Contributions sho
 
 ## License
 
-MIT - Use these prompts freely in your own work.
+Copyright (c) 2025 Dennis Porter
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
