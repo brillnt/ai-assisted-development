@@ -2,7 +2,7 @@
 
 ## Foundation: The Human-AI Partnership Model
 
-**Core Truth**: AI assistants excel at rapid artifact generation and systematic thinking. Humans excel at verification, reality-testing, and determining "done." Effective collaboration leverages both strengths rather than attempting to make either party self-sufficient.
+**Core Truth**: AI assistants excel at rapid ideation, pattern recognition, and systematic artifact generation across vast datasets. Humans excel at understanding context, discerning intent, strategic foresight, complex problem-solving, and validating real-world applicability. Effective collaboration leverages these distinct cognitive strengths for verified, purposeful progress.
 
 **The Central Challenge: AI Eagerness**  
 AI assistants have a fundamental tendency toward over-eagerness - rushing to implement solutions, adding unrequested features, and claiming completion without verification. This eagerness, while well-intentioned, leads to unstable code, unverified assumptions, and divergence from actual requirements. These principles exist primarily to channel this eagerness into productive, verified progress.
